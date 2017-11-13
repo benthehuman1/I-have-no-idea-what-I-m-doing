@@ -5,5 +5,6 @@ public class Runner {
 		System.out.println("Hello GitHub!");
 		System.out.println("Hello GitHub!");
 		System.out.println("This is from my mac!");
+		System.out.println("This is from my mac!");
 	}
 }
